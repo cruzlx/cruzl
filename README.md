@@ -1,6 +1,6 @@
 #  Blockchain & Web3 Developer
 
-Hello there! I'm **Fauzan Hidayatulloh**, a passionate **Web3 Frontend Developer, DeFi Specialist, and Blockchain Researcher**.  
+Hello there! I'm **cruzl.eth**, a passionate **Web3 Frontend Developer, DeFi Specialist, and Blockchain Researcher**.  
 I’m dedicated to building decentralized solutions and exploring the future of blockchain ecosystems.
 
 ---
