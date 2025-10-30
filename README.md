@@ -1,12 +1,12 @@
 #  Blockchain & Web3 Developer
 
-Hello there! I'm **Fauzan Hidayatulloh**, a passionate **Web3 Frontend Developer, DeFi Specialist, and Blockchain Researcher**.  
+Hello there! I'm **cruzl.eth**, a passionate **Web3 Frontend Developer, DeFi Specialist, and Blockchain Researcher**.  
 I’m dedicated to building decentralized solutions and exploring the future of blockchain ecosystems.
 
 ---
 
 ###  About Me
-- 🏡 Based in **Ciamis, Indonesia**, but open to global opportunities.  
+- 🏡 Based in **Tasikmalaya, Indonesia**, but open to global opportunities.  
 - 💻 Experienced with **Solidity, Rust, JavaScript, and Python**.  
 - 🧩 Skilled in **Ethereum, IPFS, Chainlink, The Graph, and Hardhat**.  
 - 🔗 Active in **DeFi, testnets, mainnets, and airdrop ecosystems**.  
